@@ -1,6 +1,8 @@
-## Hello World! 👋
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋;+Meu+nome+é+David!;" />
+</h1>
 
-<div>
+<div align="center">
   <a href="https://github.com/DavidXyz22">
     
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DavidXyz22&theme=dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats">
@@ -8,7 +10,7 @@
   
 </div>
 
-<div style="display: inline_block"><br>
+<div align="center" style="display: inline_block"><br>
 
 <img align="center" alt="David-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
@@ -24,5 +26,3 @@
 <img align="center" alt="David-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 
 </div>
-
-![Snake animation](https://github.com/DavidXyz22/DavidXyz22/blob/output/github-contribution-grid-snake.svg)
