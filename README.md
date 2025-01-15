@@ -5,8 +5,8 @@
 <div align="center">
   <a href="https://github.com/DavidXyz22">
     
-  <img height="250em" src="https://github-readme-stats.vercel.app/api?username=DavidXyz22&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats">
-  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidXyz22&layout-compact&langs_count=16&&hide_border=true&theme=algolia"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=DavidXyz22&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidXyz22&layout-compact&langs_count=16&&hide_border=true&theme=algolia"/>
   
 </div>
 
