@@ -2,13 +2,6 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hello+World!+👋;+Meu+nome+é+David!;" />
 </h1>
 
-<div align="center">
-  <a href="https://github.com/DavidXyz22">
-    
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=DavidXyz22&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidXyz22&layout-compact&langs_count=16&&hide_border=true&theme=algolia"/>
-  
-</div>
 
 ##
 
